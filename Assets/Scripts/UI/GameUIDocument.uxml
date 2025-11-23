@@ -1,0 +1,4 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="Przedmioty: 0" name="PickupItemsCountLabel" style="left: 2%; top: 2%; font-size: 46px;" />
+    <ui:Label text="Prędkość: 0" name="SpeedLabel" style="left: 2%; top: 2%; font-size: 46px;" />
+</ui:UXML>
